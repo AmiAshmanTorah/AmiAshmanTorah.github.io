@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Chiddushei Tanach"
+title: "Ami's Chiddushei Torah"
 ---
 
-Welcome to my collection of insights (chiddushim) on the Hebrew Bible. Here you'll find brief commentaries, novel interpretations, and thoughtful observations on verses throughout Tanach.
+Welcome to my collection of chiddushim and comments on various topics and sources across Tanach.
 
 ## Recent Posts
 <!-- Jekyll will automatically list your recent posts here -->
