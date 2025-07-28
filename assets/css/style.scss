@@ -1,0 +1,35 @@
+---
+---
+
+@import "minima";
+
+/* Hebrew text styling */
+.hebrew {
+  font-family: "SBL Hebrew", "Ezra SIL", serif;
+  font-size: 1.2em;
+  direction: rtl;
+  text-align: right;
+  line-height: 1.6;
+}
+
+/* Highlight the chiddush section */
+.chiddush {
+  background-color: #f8f9fa;
+  padding: 1rem;
+  border-left: 4px solid #007acc;
+  margin: 1rem 0;
+}
+
+/* Category tags */
+.post-categories {
+  margin: 0.5rem 0;
+}
+
+.post-categories a {
+  background-color: #e9ecef;
+  padding: 0.2rem 0.5rem;
+  border-radius: 3px;
+  text-decoration: none;
+  margin-right: 0.5rem;
+  font-size: 0.8rem;
+}
