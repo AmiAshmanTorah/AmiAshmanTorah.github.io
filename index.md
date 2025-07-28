@@ -8,6 +8,7 @@ Welcome to my collection of chiddushim and comments on various topics and source
 ## Recent Posts
 <!-- Jekyll will automatically list your recent posts here -->
 
+<!--
 ## Browse by Category
 - [Torah]({{ site.baseurl }}/categories/torah/)
 - [Nevi'im]({{ site.baseurl }}/categories/neviim/)
@@ -17,3 +18,4 @@ Welcome to my collection of chiddushim and comments on various topics and source
 - [Divine Service]({{ site.baseurl }}/tags/divine-service/)
 - [Spiritual Practice]({{ site.baseurl }}/tags/spiritual-practice/)
 - [Leadership]({{ site.baseurl }}/tags/leadership/)
+-->
