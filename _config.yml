@@ -1,0 +1,35 @@
+title: "Chiddushei Tanach"
+description: "Insights and Comments on Tanach"
+author: "Ami Ashman"
+email: amiashmantorah@gmail.com
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+theme: minima
+
+# Hebrew support
+lang: en
+direction: ltr
+
+# Collections for organizing posts
+collections:
+  chiddushim:
+    output: true
+    permalink: /:collection/:name/
+
+# Navigation
+header_pages:
+  - about.md
+  - archive.md
+  - by-book.md
+
+# Plugins
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Hebrew text settings
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
